@@ -13,7 +13,7 @@
       <tr><td>Brand/Nutrition</td> <td colspan=2 Row 1 Column 1> Pepsi</td> <td>Mountain Dew</td> <td>Coca-Cola</td></tr> 
       <tr><td>Calories</td> <td colspan=2 row 2 column 2>150</td> <td colspan= row 2 column 3> 170 <td>240</td>
       <tr><td>Sugar</td> <td colspan=2 row 2 column 1>41<td>65</td> <td>46</td></tr>
-      <tr><td>Sugar %</td>< <td colspan= row 3 column 2> 27%</tr>
+      <tr><td>Sugar %</td>< <td colspan= row 3 column 2> 27% <td colspan=2 row 3 column 3> 38%</td> <td>19%</td></tr>
     </table>
   </body>
 </html>
