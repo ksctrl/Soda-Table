@@ -10,7 +10,7 @@
     </ol>
     <table>
       <caption>Which Soda Brand has the WORST Sugar Ratio?</caption>
-      <tr><td>Brand/Nutrition</td> <td colspan=2 Row 1 Column 1> </tr> 
+      <tr><td>Brand/Nutrition</td> <td colspan=2 Row 1 Column 1> Pepsi</td> <td>Mountain Dew</td> <td>Coca-Cola</td></tr> 
       <tr><td>Calories</td></tr>
     </table>
   </body>
