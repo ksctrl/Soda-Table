@@ -12,6 +12,8 @@
       <caption>Which Soda Brand has the WORST Sugar Ratio?</caption>
       <tr><td>Brand/Nutrition</td> <td colspan=2 Row 1 Column 1> Pepsi</td> <td>Mountain Dew</td> <td>Coca-Cola</td></tr> 
       <tr><td>Calories</td></tr>
+      <tr><td>Sugar</td></tr>
+      <tr><tfoot>Ratio Cal. - Sug.</tfoot></tr>
     </table>
   </body>
 </html>
